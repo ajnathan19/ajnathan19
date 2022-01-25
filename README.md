@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ajnathan19
+- 👋 Hi, I’m Ajay.
 - 👀 I’m interested in designing and coding
-- 🌱 I’m currently learning flutter which is a google product.Also learning hibernate and spring boot 
+- 🌱 I’m currently learning react js and node js. 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
